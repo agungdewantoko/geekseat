@@ -1,7 +1,7 @@
 <?php
 
-include_once('Witch.php');
-include_once('Rules.php');
+require_once "Wordcount.php";
+require_once "Rules.php";
 
 $method = $_GET['method'];
 

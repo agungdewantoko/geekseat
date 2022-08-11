@@ -1,5 +1,6 @@
 {
     "require": {
-        "php": "^8.0.15"
+        "php": "^8.0.15",
+        "phpunit/phpunit": "^9.5"
     }
 }
